@@ -1,0 +1,82 @@
+Hospital datasets found: 78
+Datasets requiring download: 78
+OK  wue8-3vwe | Ambulatory Surgical Center Quality Measures - National | 1 rows
+OK  tf3h-mrrs | Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National | 1 rows
+OK  axe7-s95e | Ambulatory Surgical Center Quality Measures - State | 54 rows
+OK  x663-bwbj | Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State | 56 rows
+OK  tqkv-mgxq | Comprehensive Care For Joint Replacement Model - Provider Data | 320 rows
+OK  y9us-9xdf | Footnote Crosswalk | 32 rows
+OK  48nr-hqxx | Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility | 4,744 rows
+OK  qqw3-t4ie | Complications and Deaths - National | 20 rows
+OK  xrgf-x36b | Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount | 13 rows
+OK  bs2r-24vh | Complications and Deaths - State | 1,120 rows
+OK  u625-zae7 | Table 3: FY2024 Percent Change in Medicare Payments | 23 rows
+OK  5gv4-jwyv | Table 1: FY2024 Net Change in Base Operating DRG Payment Amount | 33 rows
+OK  vtqa-m4zn | Table 4: FY2024 Value-Based Incentive Payment Amount | 25 rows
+OK  4jcv-atw7 | Ambulatory Surgical Center Quality Measures - Facility | 5,711 rows
+OK  99ue-w85f | Patient survey (HCAHPS) - National | 51 rows
+OK  yd3s-jyhd | Healthcare Associated Infections - National | 6 rows
+OK  k2ze-bqvw | Healthcare Associated Infections - State | 1,008 rows
+OK  84jm-wiui | Patient survey (HCAHPS) - State | 2,856 rows
+OK  s5pj-hua3 | Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National | 15 rows
+OK  z8ax-x9j1 | Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital | 44 rows
+OK  6pfg-whmx | Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State | 840 rows
+OK  jfnd-nl7s | Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National | 4 rows
+OK  5hk7-b79m | Medicare Spending Per Beneficiary - Hospital Additional Decimal Places | 2,974 rows
+OK  yq43-i98g | Hospital-Acquired Condition (HAC) Reduction Program | 3,055 rows
+OK  k653-4ka8 | Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital | 308 rows
+OK  xubh-q36u | Hospital General Information | 5,419 rows
+OK  9g7e-btyt | Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National | 51 rows
+OK  iy27-wz37 | Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital | 748 rows
+OK  qatj-nmws | Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State | 2,856 rows
+OK  su9h-3pvj | Hospital Value-Based Purchasing (HVBP) - Efficiency Scores | 2,455 rows
+OK  pudb-wetr | Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores | 2,455 rows
+OK  muwa-iene | CMS Medicare PSI-90 and component measures - six-digit estimate dataset | 52,338 rows
+OK  9n3s-kdb3 | Hospital Readmissions Reduction Program | 18,330 rows
+OK  ypbt-wvdk | Hospital Value-Based Purchasing (HVBP) - Total Performance Score | 2,455 rows
+OK  s5xg-sys6 | Inpatient Psychiatric Facility Quality Measure Data - National | 1 rows
+OK  avtz-f2ge | Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS) | 2,455 rows
+OK  dc76-gh7x | Inpatient Psychiatric Facility Quality Measure Data - by State | 52 rows
+OK  4j6d-yzce | Measure Dates | 171 rows
+OK  dgmq-aat3 | Hospital Value-Based Purchasing (HVBP) - Safety | 2,455 rows
+OK  3n5g-6b7f | Medicare Spending Per Beneficiary - National | 1 rows
+OK  rs6n-9qwg | Medicare Spending Per Beneficiary - State | 56 rows
+OK  q9vs-r7wp | Inpatient Psychiatric Facility Quality Measure Data - by Facility | 1,410 rows
+OK  di9i-zzrc | Outpatient Imaging Efficiency - National | 2 rows
+OK  if5v-4x48 | Outpatient Imaging Efficiency - State | 112 rows
+OK  rrqw-56er | Medicare Spending Per Beneficiary - Hospital | 4,626 rows
+OK  isrn-hqyy | Timely and Effective Care - National | 45 rows
+OK  apyc-v239 | Timely and Effective Care - State | 1,736 rows
+OK  wkfw-kthe | Outpatient Imaging Efficiency - Hospital | 9,252 rows
+OK  cvcs-xecj | Unplanned Hospital Visits - National | 14 rows
+OK  4gkm-5ypv | Unplanned Hospital Visits - State | 784 rows
+OK  6qxe-iqz8 | Veterans Health Administration Behavioral Health Data | 660 rows
+OK  ptds-r8im | Veterans Health Administration Timely and Effective Care Data | 1,452 rows
+OK  uyx4-5s7f | Veterans Health Administration Provider Level Data | 132 rows
+OK  bzsr-4my4 | Data Updates | 1,229 rows
+OK  azum-44iv | Long-Term Care Hospital - General Information | 311 rows
+OK  ynj2-r877 | Complications and Deaths - Hospital | 95,800 rows
+OK  nrth-mfg3 | Medicare Hospital Spending by Claim | 63,646 rows
+OK  5zdx-ny2x | Long-Term Care Hospital - National Data | 27 rows
+OK  mxtu-43qs | Patient-Reported Outcomes - Hospital | 4,626 rows
+OK  qoeg-w7ck | Palliative Care - PPS-Exempt Cancer Hospital - Hospital | 44 rows
+OK  fp6g-2gsn | Long-Term Care Hospital - Provider Data | 24,258 rows
+OK  qigt-w5cx | Palliative Care - PPS-Exempt Cancer Hospital - National | 4 rows
+OK  nrdb-3fcy | Maternal Health - Hospital | 17,936 rows
+OK  hbf-map | Birthing Friendly Hospitals with Geocoded Addresses | 2,263 rows
+OK  d2k3-k3ac | Rural Emergency Hospital Timely and Effective Care - National | 8 rows
+OK  97xg-v3wv | Rural Emergency Hospital Timely and Effective Care - Hospital | 172 rows
+OK  f4ga-b9gx | Promoting Interoperability - Hospital | 4,626 rows
+OK  7peb-i4pi | Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital | 43 rows
+OK  zt3q-3e1z | Rural Emergency Hospital Outpatient Imaging Efficiency - National | 1 rows
+OK  zez1-ka2w | Rural Emergency Hospital Unplanned Hospital Visits - Hospital | 43 rows
+OK  uk3n-au7a | Rural Emergency Hospital Unplanned Hospital Visits - National | 1 rows
+OK  1su6-zfft | Patient Engagement PPS-Exempt Cancer Hospital - Hospital | 11 rows
+OK  4dyz-5kt1 | Patient Engagement PPS-Exempt Cancer Hospital - National | 1 rows
+OK  yizn-abxn | Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility | 92,520 rows
+OK  632h-zaca | Unplanned Hospital Visits - Hospital | 67,060 rows
+OK  77hc-ibv8 | Healthcare Associated Infections - Hospital | 172,440 rows
+OK  yv7e-xc69 | Timely and Effective Care - Hospital | 138,084 rows
+OK  dgck-syfz | Patient survey (HCAHPS) - Hospital | 325,720 rows
+Successful: 78
+Failed: 0

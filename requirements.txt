@@ -1,0 +1,2 @@
+# No third-party dependencies.
+# The implementation uses only Python's standard library.
